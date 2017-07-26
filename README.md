@@ -94,6 +94,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Understanding Fraudulent Activities in Online Ad Exchanges](http://conferences.sigcomm.org/imc/2011/docs/p279.pdf) by Brett Stone-Grosset et al. IMC 2011.
 
 ### Market Segmentation
+*[Exploring the optimal granularity for market segmentation in RTB advertising via computational experiment approach](https://www.researchgate.net/publication/318227603_Exploring_the_Optimal_Granularity_for_Market_Segmentation_in_RTB_Advertising_via_Computational_Experiment_Approach) by Rui Qin et al. ECRA 2017.
 * [Optimizing the Segmentation Granularity for RTB Advertising Markets with a Two-stage Resale Model](https://www.researchgate.net/publication/312173822_Optimizing_the_Segmentation_Granularity_for_RTB_Advertising_Markets_with_a_Two-stage_Resale_Model) By Rui Qin et al. SMC 2016.
 * [Optimizing Market Segmentation Granularity in RTB Advertising: A Computational Experimental Study](https://www.researchgate.net/publication/309588977_Optimizing_Market_Segmentation_Granularity_in_RTB_Advertising_A_Computational_Experimental_Study) by Rui Qin et al. SocialCom 2016.
 * [Analyzing the Segmentation Granularity of RTB Advertising Markets：A Computational Experiment Approach](https://www.researchgate.net/publication/300238564_Analyzing_the_Segmentation_Granularity_of_RTB_Advertising_Markets_A_Computational_Experiment_Approach) by Rui Qin et al. SMP 2015.
